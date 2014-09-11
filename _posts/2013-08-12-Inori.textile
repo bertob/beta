@@ -1,0 +1,47 @@
+---
+layout: default
+title: Inori
+subtitle: Brand identity for a programming language
+client: Inori Project
+role: Brand Identity Design
+year: 2013
+image: assets/thumbnails/inori.png
+category: branding
+---
+
+h1(page-title). {{ page.title }}
+
+h4(page-subtitle). {{ page.subtitle }}
+
+!(page-header-img)/assets/thumbnails/inori.png(header image)!
+
+<div class="text">
+
+p(smallinfo). _*Role:* {{ page.role }}
+*Year:* {{ page.year }}_
+
+Inori is an experimental programming language inspired by Clojure, Ruby and Scala, among others. For more information on the language have a look at the project's "website":http://inori-lang.org and "Github page":https://github.com/inori-lang.
+
+You can check out the complete brand identity guidelines "here":https://speakerdeck.com/bertob/inori-brand-book.
+
+<figure>
+  <img src="/assets/inori-values.png" alt="Inori Values" />
+</figure>
+
+<figure>
+  <img src="/assets/inori-intro.png" alt="Inori Introduction" />
+</figure>
+
+<figure>
+  <img src="/assets/inori-logo.png" alt="Inori Logo" />
+</figure>
+
+<figure>
+  <img src="/assets/inori-palette.png" alt="Inori Color Palette" />
+</figure>
+
+<figure>
+  <img src="/assets/inori-examples.png" alt="Inori Examples" />
+</figure>
+
+</div>
