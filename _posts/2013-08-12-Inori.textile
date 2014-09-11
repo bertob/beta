@@ -25,11 +25,11 @@ Inori is an experimental programming language inspired by Clojure, Ruby and Scal
 You can check out the complete brand identity guidelines "here":https://speakerdeck.com/bertob/inori-brand-book.
 
 <figure>
-  <img src="/assets/inori-values.png" alt="Inori Values" />
+  <img src="assets/inori-values.png" alt="Inori Values" />
 </figure>
 
 <figure>
-  <img src="/assets/inori-intro.png" alt="Inori Introduction" />
+  <img src="assets/inori-intro.png" alt="Inori Introduction" />
 </figure>
 
 <figure>

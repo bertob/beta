@@ -27,58 +27,58 @@ During the spring semester of 2014, we screened a total of 14 movies on a more o
 It was a fun project for me, because I had creative control over practically everything, from the identity, to the layout, to the individual illustrations on the posters. Printing the posters was also interesting. It definitely made me appreciate the web as a medium more, where jammed printers, color profiles and the like aren't an issue.
 
 <figure class="fig-half fig-left">
-  <img src="/assets/reservoir-dogs.png" alt="Reservoir Dogs Poster" />
+  <img src="/beta/assets/reservoir-dogs.png" alt="Reservoir Dogs Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/strangelove.png" alt="Dr. Strangelove Poster" />
+  <img src="/beta/assets/strangelove.png" alt="Dr. Strangelove Poster" />
 </figure>
 <div class="clear"></div>
 
 <figure class="fig-half fig-left">
-  <img src="/assets/drive.png" alt="Drive Poster" />
+  <img src="/beta/assets/drive.png" alt="Drive Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/memento.png" alt="Memento Poster" />
+  <img src="/beta/assets/memento.png" alt="Memento Poster" />
 </figure>
 <div class="clear"></div>
 
 <figure class="fig-half fig-left">
-  <img src="/assets/gold-rush.png" alt="Gold Rush Poster" />
+  <img src="/beta/assets/gold-rush.png" alt="Gold Rush Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/brick.png" alt="Brick Poster" />
+  <img src="/beta/assets/brick.png" alt="Brick Poster" />
 </figure>
 <div class="clear"></div>
 
 <figure class="fig-half fig-left">
-  <img src="/assets/donnie-darko.png" alt="Donnie Darko Poster" />
+  <img src="/beta/assets/donnie-darko.png" alt="Donnie Darko Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/cento-passi.png" alt="I Cento Passi Poster" />
+  <img src="/beta/assets/cento-passi.png" alt="I Cento Passi Poster" />
 </figure>
 <div class="clear"></div>
 
 <figure class="fig-half fig-left">
-  <img src="/assets/right-thing.png" alt="Do The Right Thing Poster" />
+  <img src="/beta/assets/right-thing.png" alt="Do The Right Thing Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/brazil.png" alt="Brazil Poster" />
+  <img src="/beta/assets/brazil.png" alt="Brazil Poster" />
 </figure>
 <div class="clear"></div>
 
 <figure class="fig-half fig-left">
-  <img src="/assets/fight-club.png" alt="Fight Club Poster" />
+  <img src="/beta/assets/fight-club.png" alt="Fight Club Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/waltz.png" alt="Waltz With Bashir Poster" />
+  <img src="/beta/assets/waltz.png" alt="Waltz With Bashir Poster" />
 </figure>
 <div class="clear"></div>
 
 <figure class="fig-half fig-left">
-  <img src="/assets/blues-brothers.png" alt="Blues Brothers Poster" />
+  <img src="/beta/assets/blues-brothers.png" alt="Blues Brothers Poster" />
 </figure>
 <figure class="fig-half">
-  <img src="/assets/hurt-locker.png" alt="The Hurt Locker Poster" />
+  <img src="/beta/assets/hurt-locker.png" alt="The Hurt Locker Poster" />
 </figure>
 <div class="clear"></div>
 

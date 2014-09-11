@@ -36,7 +36,7 @@ While researching different public transport applications and websites we found 
 # The user chooses a connection
 
 <figure class="with-caption">
-  <img src="/assets/sii.png" alt="Screenshot of the SII web interface">
+  <img src="/beta/assets/sii.png" alt="Screenshot of the SII web interface">
   <figcaption>The <a href="http://www.sii.bz.it">South Tyrol public transport website</a> is a perfect example: clumsy inputs, unneccessarily complex UI and low information density in the search results.</figcaption>
 </figure>
 
@@ -65,20 +65,20 @@ This allowed us to simplify the user flow to this:
 # The user chooses a connection
 
 <div>
-  <img src="/assets/wide.png" alt="" />
+  <img src="/beta/assets/wide.png" alt="" />
 </div>
 
 The map shows the user's position and all of the stops in the area. Tapping one of them sets it as the destination.
 
 <div>
-  <img src="/assets/wide.png" alt="" />
+  <img src="/beta/assets/wide.png" alt="" />
 </div>
 
 Once a destination is chosen, the app determines from which stops the destination can be reached directly and shows only those.
 Users can now see on the map which of these stops are closest to them and choose the one they want as their departure stop.
 
 <div>
-  <img src="/assets/wide.png" alt="" />
+  <img src="/beta/assets/wide.png" alt="" />
 </div>
 
 When users click on a departure stop, the app shows a list of the next connections to the destination.
@@ -91,7 +91,7 @@ We used "Openstreetmap":http://openstreetmap.org/ and "Stamen Design's "Toner" t
 Here's a screenshot:
 
 <div>
-  <img src="/assets/wide.png" alt="" />
+  <img src="/beta/assets/wide.png" alt="" />
 </div>
 
 h2. Branding

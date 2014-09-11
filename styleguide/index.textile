@@ -61,11 +61,11 @@ Images can either be _full-width_ or _half-width_, with optional captions. All i
 Two half-width images with captions:
 
 <figure class="fig-half with-caption fig-left">
-  <img src="/assets/donnie-darko.png">
+  <img src="/beta/assets/donnie-darko.png">
   <figcaption>This is a caption below a half-width image.</figcaption>
 </figure>
 <figure class="fig-half with-caption">
-  <img src="/assets/hurt-locker.png">
+  <img src="/beta/assets/hurt-locker.png">
   <figcaption>This is a caption below a half-width image, and it's also very long and has lots of text in it to test how that affects the layout.</figcaption>
 </figure>
 <div class="clear"></div>
@@ -73,22 +73,22 @@ Two half-width images with captions:
 Some more half-width images, without captions this time:
 
 <figure class="fig-half fig-left">
-  <img src="/assets/right-thing.png">
+  <img src="/beta/assets/right-thing.png">
 </figure>
 <figure class="fig-half">
-  <img src="/assets/reservoir-dogs.png">
+  <img src="/beta/assets/reservoir-dogs.png">
 </figure>
 <div class="clear"></div>
 
 This is a full-width image with a caption:
 
 <figure class="with-caption">
-  <img src="/assets/wide.png">
+  <img src="/beta/assets/wide.png">
   <figcaption>This is a caption below a full-width image, and it's also very long and has lots of text in it to test how that affects the layout.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/wide.png">
+  <img src="/beta/assets/wide.png">
 </figure>
 
 Above is a full-width image without a caption.
