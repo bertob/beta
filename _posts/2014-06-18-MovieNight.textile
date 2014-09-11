@@ -13,7 +13,7 @@ h1(page-title). {{ page.title }}
 
 h4(page-subtitle). {{ page.subtitle }}
 
-!(page-header-img)/assets/thumbnails/movienight.png(header image)!
+!(page-header-img)/beta/assets/thumbnails/movienight.png(header image)!
 
 <div class="text">
 

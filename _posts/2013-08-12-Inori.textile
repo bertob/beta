@@ -13,7 +13,7 @@ h1(page-title). {{ page.title }}
 
 h4(page-subtitle). {{ page.subtitle }}
 
-!(page-header-img)/assets/thumbnails/inori.png(header image)!
+!(page-header-img)/beta/assets/thumbnails/inori.png(header image)!
 
 <div class="text">
 
@@ -25,23 +25,23 @@ Inori is an experimental programming language inspired by Clojure, Ruby and Scal
 You can check out the complete brand identity guidelines "here":https://speakerdeck.com/bertob/inori-brand-book.
 
 <figure>
-  <img src="assets/inori-values.png" alt="Inori Values" />
+  <img src="/beta/assets/inori-values.png" alt="Inori Values" />
 </figure>
 
 <figure>
-  <img src="assets/inori-intro.png" alt="Inori Introduction" />
+  <img src="/beta/assets/inori-intro.png" alt="Inori Introduction" />
 </figure>
 
 <figure>
-  <img src="/assets/inori-logo.png" alt="Inori Logo" />
+  <img src="/beta/assets/inori-logo.png" alt="Inori Logo" />
 </figure>
 
 <figure>
-  <img src="/assets/inori-palette.png" alt="Inori Color Palette" />
+  <img src="/beta/assets/inori-palette.png" alt="Inori Color Palette" />
 </figure>
 
 <figure>
-  <img src="/assets/inori-examples.png" alt="Inori Examples" />
+  <img src="/beta/assets/inori-examples.png" alt="Inori Examples" />
 </figure>
 
 </div>

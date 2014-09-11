@@ -61,14 +61,3 @@ Shirt design for the South-Tyrolean Reggae/Dub Band "Sisyphos":http://www.alpine
   <figcaption>Slightly revised final design</figcaption>
 </figure>
 <div class="clear"></div>
-
-
-h3. Unibz Timetable (2014)
-
-Client-side web app that displays my university's timetable RSS feed in a more readable layout. You can try it "here":http://tobiasbernard.com/unibz-timetable.
-
-<figure>
-  <img src="/beta/assets/wide.png" alt="">
-</figure>
-
-</div>
