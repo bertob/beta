@@ -20,7 +20,9 @@ h4(page-subtitle). {{ page.subtitle }}
 p(smallinfo). _*Role:* {{ page.role }}
 *Year:* {{ page.year }}_
 
-Inori is an experimental programming language inspired by Clojure, Ruby and Scala, among others. For more information on the language have a look at the project's "website":http://inori-lang.org and "Github page":https://github.com/inori-lang.
+"Inori":https://github.com/inori-lang is a programming language project by a friend of mine. It is really more of an experiment than an actual language, because it implements a lot of novel concepts and the specification is constantly changing.
+
+For the logo and identity, we wanted something simple and powerful, with a japanese vibe. Something that expressed the design goals of the language, as well as the project's optimistic, excited outlook.
 
 You can check out the complete brand identity guidelines "here":https://speakerdeck.com/bertob/inori-brand-book.
 

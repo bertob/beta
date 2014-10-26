@@ -23,9 +23,9 @@ h3. Timeline (2014)
   <img src="/beta/assets/timeline.svg" alt="Timeline">
 </figure>
 
-An experimental clock design which attempts to combine the best things about digital clocks (simple, precise, can be read with very little cognitive effort) and analog clocks (facilitate comparisons and estimations of timespans).
+Experimental clock design which attempts to combine the best things about digital clocks (simple, precise, can be read with very little cognitive effort) and analog clocks (facilitate comparisons and estimations of timespans).
 
-I built a prototype of the concept in HTML Canvas. You can check it out "here":http://tobiasbernard.com/timeline or get the code on "Github":https://github.com/bertob/timeline.
+I built a prototype of the design in HTML Canvas. You can check it out "here":http://tobiasbernard.com/timeline or get the code on "GitHub":https://github.com/bertob/timeline.
 
 
 h3. Flying Sheep (2013)
@@ -41,7 +41,7 @@ h3. Dry (2013)
 
 Weather app I built for a hackathon, in collaboration with "Julian Sparber":http://juliansparber.com. We chose the name _Dry_ because that's the only thing the app does: Keeping you dry by telling you whether it's going to rain today.
 
-You can try it "here":http://dry.sparber.net or get the code on "Github":https://github.com/realnumbers/isitgonnarain.
+You can try it "here":http://dry.sparber.net or get the code on "GitHub":https://github.com/realnumbers/isitgonnarain.
 
 <figure>
   <img src="/beta/assets/dry.png" alt="Dry">

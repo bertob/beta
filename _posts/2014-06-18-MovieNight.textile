@@ -20,11 +20,13 @@ h4(page-subtitle). {{ page.subtitle }}
 p(smallinfo). *Role:* {{ page.role }}
 *Year:* {{ page.year }}
 
-_Unibz Movie Night_ is a student event at the Free University of Bolzano organized in associacion with the student organization Kikero.
+_Unibz Movie Night_ is a student event at the Free University of Bolzano organized by the student organization Kikero.
 
-During the spring semester of 2014, we screened a total of 14 movies on a more or less weekly basis. I designed custom posters for each of the screenings, which were used to promote the events throughout the university.
+During the spring semester of 2014, there were 14 movie screenings on a more or less weekly basis. I designed custom posters for each of the screenings, which were used to promote the events throughout the university and online.
 
-It was a fun project for me, because I had creative control over practically everything, from the identity, to the layout, to the individual illustrations on the posters. Printing the posters was also interesting. It definitely made me appreciate the web as a medium more, where jammed printers, color profiles and the like aren't an issue.
+It was a fun project for me, because I had creative control over practically everything; from the identity, to the layout, to the individual illustrations on the posters.
+
+The process of printing the posters regularly was also interesting. It definitely made me appreciate the web as a medium more, where jammed printers, color profiles and the like aren't an issue.
 
 <figure class="fig-half fig-left">
   <img src="/beta/assets/reservoir-dogs.png" alt="Reservoir Dogs Poster" />
