@@ -32,7 +32,7 @@ The developers wanted something simple and fun, possibly with a japanese vibe to
   <img src="/beta/assets/inori-intro.png" alt="Inori Introduction" />
 </figure>
 
-I ended up going for a retro space age style, that still somehow feels modern thanks to the crazy color palette and James T. Edmondson's excellent "Mission Gothic":http://www.losttype.com/font/?name=missiongothic.
+I ended up going for a visual style that's pretty retro, with something of a space age feel. To make it look a bit more contemporary, I combined that with a strong palette and James T. Edmondson's excellent "Mission Gothic":http://www.losttype.com/font/?name=missiongothic.
 
 <figure>
   <img src="/beta/assets/inori-logo.png" alt="Inori Logo" />
